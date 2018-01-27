@@ -1,0 +1,1 @@
+# Interface_Segregation_Principle
